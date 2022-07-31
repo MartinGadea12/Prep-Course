@@ -1,0 +1,19 @@
+//Variables://Una variable es como una caja, donde podemos guardar informacion para despues utilizarla.
+            //Hay 3 tipos: var, let, const (variable constante, que no se puede pizar).
+            //EJ: var saludo = "Hola"
+            //    let nombreApellido = "Martin Gadea"
+            //    const DNI = 39.224.881
+//Strings:  // Una String son palabras encerradas por comillas.
+            // EJ: "Hola" 
+
+//Funciones (argumentos, return): //Las funciones son un conjunto de instrucciones de codigo que realiza una tarea o calcula un valor.
+                                  //para declarar una funcion se escribe function, seguido del nombre de la funcion
+                                  //Por ej: function Sumar(a + b) Lo que esta dentro del parentesis serian los parametros que asignamos
+                                  //a la funcion Sumar.
+                                  //Los argumentos serian los valores que resolvemos en la function con los parametros.
+                                  //Y return, es lo que usamos para que nos devuelva el valor de lo que estamos buscando.
+
+//Declaraciones if: //Son condicionales, se usan como es en caso de que, o con la condición de que.
+
+//Valores booleanos (true, false) // Se usa para informacion que solo puede tener dos resultados: true o false, existe o no existe, si o no.  
+                
