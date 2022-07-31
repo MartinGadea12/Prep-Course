@@ -1,0 +1,6 @@
+//for:        //Se usa cuando queremos repetir un conjunto de instrucciones N de veces.
+//&&, ||, ! : //Todos estos simbolos son operadores logicos.
+             //el && Es el and, evalua las dos expresiones, y devuelve un valor booleano, true o false.
+             //el || Es el or; se usa para ver si las dos expresiones son verdaderas, o una de las dos es falsa, devolvera true 
+             //o no se ejecutara.
+             //Y el ! es el not, o negacion. Se usa para hacer lo contrario de una expresion.
